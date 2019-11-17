@@ -1,0 +1,16 @@
+numpy
+scipy
+Pillow
+cython
+matplotlib
+scikit-image
+tensorflow>=1.3.0
+keras===2.1.6
+opencv-python
+h5py
+imgaug
+IPython[all]
+tqdm==4.19.9
+jupyter-client==5.2.3
+jupyter-core==4.4.0
+git+https://github.com/AIcrowd/coco.git#subdirectory=PythonAPI
